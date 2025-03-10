@@ -332,7 +332,7 @@ Zheng He Maritime Large Language Model (Zh-MT-LLM) is developed by the Large Lan
 
 Academic advisor: Yijia Zhang, Mingyu Lu, Guoqiang Li, Houqun Xing
 
-Student members: Fuxi Zhang, Shengbo Fu, Yiming Zhou , Bingyu Wan , Junwei Zhang , Songtao Li , Shidi Zhang, Shilong Wang , Junkai Cheng , Weiming Yin , Qinghua  Pei , Xiaobo Li , Qiyun Zhao , Chengquan Pu, Weihao Sun , Zhenxin Li , Jinfan Wang , Yufan  Jiang , Lin Sun , Jinzhu Guan , Shuai Chang, Ziyi Ma , Chang Wang, Shuai Chen 
+Student members: Fuxi Zhang, Shengbo Fu, Yiming Zhou , Bingyu Wan , Fanjun Meng , Junwei Zhang , Songtao Li , Shidi Zhang, Shilong Wang , Junkai Cheng , Weiming Yin , Qinghua  Pei , Xiaobo Li , Qiyun Zhao , Chengquan Pu, Weihao Sun , Zhenxin Li , Jinfan Wang , Yufan  Jiang , Lin Sun , Jinzhu Guan , Shuai Chang, Ziyi Ma , Chang Wang, Shuai Chen 
 
 Cooperation e-mail: zhangyijia@dlmu.edu.cn
 
